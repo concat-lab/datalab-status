@@ -9,7 +9,7 @@ sites:
   - name: Datalab
     url: https://datalab.concatlab.eu
     maxResponseTime: 10000
-  - name: Datalab UH (API)
+  - name: Datalab (API)
     url: https://datalab-api.concatlab.eu
     maxResponseTime: 10000
 

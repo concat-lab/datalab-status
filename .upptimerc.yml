@@ -24,5 +24,5 @@ status-website:
   navbar:
     - title: Status
       href: /
-    - title: ConCat: Conductivity and Catalysis Lab 
+    - title: ConCat - Conductivity and Catalysis Lab 
       href: https://www.tu.berlin/en/concat

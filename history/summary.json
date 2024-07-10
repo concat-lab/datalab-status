@@ -22,19 +22,19 @@
     "url": "https://datalab-api.concatlab.eu",
     "icon": "https://icons.duckduckgo.com/ip3/datalab-api.concatlab.eu.ico",
     "slug": "datalab-api",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 871,
-    "timeDay": 871,
-    "timeWeek": 871,
-    "timeMonth": 871,
-    "timeYear": 871,
+    "status": "up",
+    "uptime": "98.89%",
+    "uptimeDay": "98.89%",
+    "uptimeWeek": "98.89%",
+    "uptimeMonth": "98.89%",
+    "uptimeYear": "98.89%",
+    "time": 888,
+    "timeDay": 888,
+    "timeWeek": 888,
+    "timeMonth": 888,
+    "timeYear": 888,
     "dailyMinutesDown": {
-      "2024-07-10": 0
+      "2024-07-10": 7
     }
   }
 ]

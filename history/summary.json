@@ -4,10 +4,10 @@
     "url": "https://datalab.concatlab.eu",
     "icon": "https://icons.duckduckgo.com/ip3/datalab.concatlab.eu.ico",
     "slug": "datalab",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 968,
@@ -15,14 +15,16 @@
     "timeWeek": 1011,
     "timeMonth": 972,
     "timeYear": 968,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-09-04": 1
+    }
   },
   {
     "name": "Datalab (API)",
     "url": "https://datalab-api.concatlab.eu",
     "icon": "https://icons.duckduckgo.com/ip3/datalab-api.concatlab.eu.ico",
     "slug": "datalab-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -34,6 +36,7 @@
     "timeMonth": 970,
     "timeYear": 960,
     "dailyMinutesDown": {
+      "2024-09-04": 0,
       "2024-07-10": 7
     }
   }

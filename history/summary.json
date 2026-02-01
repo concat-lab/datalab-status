@@ -5,19 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/datalab.concatlab.eu.ico",
     "slug": "datalab",
     "status": "up",
-    "uptime": "99.54%",
+    "uptime": "99.55%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 665,
-    "timeDay": 837,
-    "timeWeek": 645,
-    "timeMonth": 740,
-    "timeYear": 646,
+    "time": 664,
+    "timeDay": 726,
+    "timeWeek": 687,
+    "timeMonth": 743,
+    "timeYear": 647,
     "dailyMinutesDown": {
-      "2025-08-25": 6,
-      "2025-02-01": 158
+      "2025-08-25": 6
     }
   },
   {
@@ -31,16 +30,15 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 668,
-    "timeDay": 664,
-    "timeWeek": 783,
-    "timeMonth": 774,
-    "timeYear": 657,
+    "time": 667,
+    "timeDay": 724,
+    "timeWeek": 781,
+    "timeMonth": 770,
+    "timeYear": 658,
     "dailyMinutesDown": {
       "2025-08-25": 6,
       "2025-08-20": 6,
-      "2025-03-20": 6,
-      "2025-02-01": 158
+      "2025-03-20": 6
     }
   }
 ]
